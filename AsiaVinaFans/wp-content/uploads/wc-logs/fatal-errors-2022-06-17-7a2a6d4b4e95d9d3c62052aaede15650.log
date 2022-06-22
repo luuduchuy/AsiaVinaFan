@@ -1,0 +1,2 @@
+2022-06-17T06:54:43+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 65536 bytes) in H:\Xampp\htdocs\AsiaVinaFans\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\PriceFilter.php on line 15
+

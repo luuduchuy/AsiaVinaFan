@@ -1,0 +1,2 @@
+2022-06-19T19:00:22+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in H:\Xampp\htdocs\AsiaVinaFans\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-menus.php on line 161
+

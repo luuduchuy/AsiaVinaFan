@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'roboto';
+					src: url('/AsiaVinaFans/wp-content/uploads/useanyfont/205roboto.woff2') format('woff2'),
+						url('/AsiaVinaFans/wp-content/uploads/useanyfont/205roboto.woff') format('woff');
+						  font-display: auto;
+				}
+
+				.roboto{font-family: 'roboto' !important;}
+
+				.et_gf_roboto{background:none !important;font-family:roboto;text-indent:0 !important;font-size:25px;}
+
+		
